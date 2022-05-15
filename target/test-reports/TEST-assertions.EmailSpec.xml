@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="Darshils-MacBook-Air.local" name="assertions.EmailSpec" tests="5" errors="0" failures="1" skipped="0" time="0.008" timestamp="2022-05-12T18:54:01">
+          <properties>
+      <property name="java.specification.version" value="18"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="sun.arch.data.model" value="64"/><property name="java.vendor.url" value="https://github.com/Homebrew/homebrew-core/issues"/><property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/18.0.1/libexec/openjdk.jdk/Contents/Home/lib"/><property name="sun.java.command" value="/opt/homebrew/Cellar/sbt/1.6.2/libexec/bin/sbt-launch.jar"/><property name="jdk.debug" value="release"/><property name="sun.stderr.encoding" value="UTF-8"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="java.version.date" value="2022-04-19"/><property name="java.home" value="/opt/homebrew/Cellar/openjdk/18.0.1/libexec/openjdk.jdk/Contents/Home"/><property name="file.separator" value="/"/><property name="java.vm.compressedOopsMode" value="Zero based"/><property name="line.separator" value="
+"/><property name="sun.stdout.encoding" value="UTF-8"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="java.runtime.version" value="18.0.1+0"/><property name="user.name" value="darshildholakia"/><property name="log4j.ignoreTCL" value="true"/><property name="file.encoding" value="UTF-8"/><property name="java.vendor.version" value="Homebrew"/><property name="java.io.tmpdir" value="/var/folders/_c/8m2533cx34nb0h4lhgr92wwh0000gn/T/"/><property name="java.version" value="18.0.1"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="native.encoding" value="UTF-8"/><property name="java.library.path" value="/Users/darshildholakia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="java.vendor" value="Homebrew"/><property name="scala.ext.dirs" value="/Users/darshildholakia/.sbt/1.0/java9-rt-ext-homebrew_18_0_1"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="java.class.path" value="/opt/homebrew/Cellar/sbt/1.6.2/libexec/bin/sbt-launch.jar"/><property name="java.vm.vendor" value="Homebrew"/><property name="jline.shutdownhook" value="false"/><property name="user.timezone" value="Europe/London"/><property name="java.vm.specification.version" value="18"/><property name="os.name" value="Mac OS X"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="user.country" value="GB"/><property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="sun.cpu.endian" value="little"/><property name="user.home" value="/Users/darshildholakia"/><property name="user.language" value="en"/><property name="sbt.script" value="/opt/homebrew/Cellar/sbt/1.6.2/libexec/bin/sbt"/><property name="swoval.tmpdir" value="/Users/darshildholakia/.sbt/1.0"/><property name="apple.awt.application.name" value="Boot"/><property name="jline.esc.timeout" value="0"/><property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="path.separator" value=":"/><property name="os.version" value="12.3.1"/><property name="jna.nosys" value="true"/><property name="java.runtime.name" value="OpenJDK Runtime Environment"/><property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/><property name="java.vendor.url.bug" value="https://github.com/Homebrew/homebrew-core/issues"/><property name="user.dir" value="/Users/darshildholakia/Documents/scala_self_practice/scala-unit-testing"/><property name="os.arch" value="aarch64"/><property name="java.vm.info" value="mixed mode, sharing"/><property name="java.vm.version" value="18.0.1+0"/><property name="java.class.version" value="62.0"/>
+    </properties>
+          <testcase classname="assertions.EmailSpec" name="An Email should return an Email object for a valid String part 2" time="0.003">
+                      <failure message="Not implemented yet" type="org.scalatest.exceptions.TestFailedException">org.scalatest.exceptions.TestFailedException: Not implemented yet
+	at org.scalatest.Assertions.newAssertionFailedException(Assertions.scala:472)
+	at org.scalatest.Assertions.newAssertionFailedException$(Assertions.scala:471)
+	at org.scalatest.flatspec.AnyFlatSpec.newAssertionFailedException(AnyFlatSpec.scala:1685)
+	at org.scalatest.Assertions.fail(Assertions.scala:933)
+	at org.scalatest.Assertions.fail$(Assertions.scala:929)
+	at org.scalatest.flatspec.AnyFlatSpec.fail(AnyFlatSpec.scala:1685)
+	at assertions.EmailSpec.$anonfun$new$1(EmailSpec.scala:10)
+	at org.scalatest.OutcomeOf.outcomeOf(OutcomeOf.scala:85)
+	at org.scalatest.OutcomeOf.outcomeOf$(OutcomeOf.scala:83)
+	at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)
+	at org.scalatest.Transformer.apply(Transformer.scala:22)
+	at org.scalatest.Transformer.apply(Transformer.scala:20)
+	at org.scalatest.flatspec.AnyFlatSpecLike$$anon$5.apply(AnyFlatSpecLike.scala:1812)
+	at org.scalatest.TestSuite.withFixture(TestSuite.scala:196)
+	at org.scalatest.TestSuite.withFixture$(TestSuite.scala:195)
+	at org.scalatest.flatspec.AnyFlatSpec.withFixture(AnyFlatSpec.scala:1685)
+	at org.scalatest.flatspec.AnyFlatSpecLike.invokeWithFixture$1(AnyFlatSpecLike.scala:1810)
+	at org.scalatest.flatspec.AnyFlatSpecLike.$anonfun$runTest$1(AnyFlatSpecLike.scala:1822)
+	at org.scalatest.SuperEngine.runTestImpl(Engine.scala:306)
+	at org.scalatest.flatspec.AnyFlatSpecLike.runTest(AnyFlatSpecLike.scala:1822)
+	at org.scalatest.flatspec.AnyFlatSpecLike.runTest$(AnyFlatSpecLike.scala:1804)
+	at org.scalatest.flatspec.AnyFlatSpec.runTest(AnyFlatSpec.scala:1685)
+	at org.scalatest.flatspec.AnyFlatSpecLike.$anonfun$runTests$1(AnyFlatSpecLike.scala:1880)
+	at org.scalatest.SuperEngine.$anonfun$runTestsInBranch$1(Engine.scala:413)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at org.scalatest.SuperEngine.traverseSubNodes$1(Engine.scala:401)
+	at org.scalatest.SuperEngine.runTestsInBranch(Engine.scala:390)
+	at org.scalatest.SuperEngine.$anonfun$runTestsInBranch$1(Engine.scala:427)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at org.scalatest.SuperEngine.traverseSubNodes$1(Engine.scala:401)
+	at org.scalatest.SuperEngine.runTestsInBranch(Engine.scala:396)
+	at org.scalatest.SuperEngine.runTestsImpl(Engine.scala:475)
+	at org.scalatest.flatspec.AnyFlatSpecLike.runTests(AnyFlatSpecLike.scala:1880)
+	at org.scalatest.flatspec.AnyFlatSpecLike.runTests$(AnyFlatSpecLike.scala:1879)
+	at org.scalatest.flatspec.AnyFlatSpec.runTests(AnyFlatSpec.scala:1685)
+	at org.scalatest.Suite.run(Suite.scala:1114)
+	at org.scalatest.Suite.run$(Suite.scala:1096)
+	at org.scalatest.flatspec.AnyFlatSpec.org$scalatest$flatspec$AnyFlatSpecLike$$super$run(AnyFlatSpec.scala:1685)
+	at org.scalatest.flatspec.AnyFlatSpecLike.$anonfun$run$1(AnyFlatSpecLike.scala:1925)
+	at org.scalatest.SuperEngine.runImpl(Engine.scala:535)
+	at org.scalatest.flatspec.AnyFlatSpecLike.run(AnyFlatSpecLike.scala:1925)
+	at org.scalatest.flatspec.AnyFlatSpecLike.run$(AnyFlatSpecLike.scala:1923)
+	at org.scalatest.flatspec.AnyFlatSpec.run(AnyFlatSpec.scala:1685)
+	at org.scalatest.tools.Framework.org$scalatest$tools$Framework$$runSuite(Framework.scala:321)
+	at org.scalatest.tools.Framework$ScalaTestTask.execute(Framework.scala:516)
+	at sbt.TestRunner.runTest$1(TestFramework.scala:146)
+	at sbt.TestRunner.run(TestFramework.scala:161)
+	at sbt.TestFramework$$anon$3$$anonfun$$lessinit$greater$1.$anonfun$apply$1(TestFramework.scala:324)
+	at sbt.TestFramework$.sbt$TestFramework$$withContextLoader(TestFramework.scala:284)
+	at sbt.TestFramework$$anon$3$$anonfun$$lessinit$greater$1.apply(TestFramework.scala:324)
+	at sbt.TestFramework$$anon$3$$anonfun$$lessinit$greater$1.apply(TestFramework.scala:324)
+	at sbt.TestFunction.apply(TestFramework.scala:336)
+	at sbt.Tests$.$anonfun$toTask$1(Tests.scala:435)
+	at sbt.std.Transform$$anon$3.$anonfun$apply$2(Transform.scala:46)
+	at sbt.std.Transform$$anon$4.work(Transform.scala:68)
+	at sbt.Execute.$anonfun$submit$2(Execute.scala:282)
+	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:23)
+	at sbt.Execute.work(Execute.scala:291)
+	at sbt.Execute.$anonfun$submit$1(Execute.scala:282)
+	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)
+	at sbt.CompletionService$$anon$2.call(CompletionService.scala:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+</failure>
+                    </testcase><testcase classname="assertions.EmailSpec" name="An Email should return an Email object for a valid String" time="0.004">
+                      
+                    </testcase><testcase classname="assertions.EmailSpec" name="An Email should return another Email object for another valid String" time="0.0">
+                      
+                    </testcase><testcase classname="assertions.EmailSpec" name="An Email should throw IllegalArgumentException when no '@' symbol in email" time="0.0">
+                      
+                    </testcase><testcase classname="assertions.EmailSpec" name="An Email should intercept the correct error message when no '@' symbol provided" time="0.001">
+                      
+                    </testcase>
+          <system-out><![CDATA[]]></system-out>
+          <system-err><![CDATA[]]></system-err>
+        </testsuite>

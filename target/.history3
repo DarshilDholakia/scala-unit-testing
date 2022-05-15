@@ -1,0 +1,16 @@
+1652371920501:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/_c/8m2533cx34nb0h4lhgr92wwh0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/darshildholakia/Library/Application Support/JetBrains/Toolbox/apps/IDEA-C/ch-0/221.5080.210/IntelliJ IDEA CE.app.plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.3.0/sbt-structure-extractor-2021.3.0.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure
+1652374241251:testOnly *DollarsSpec
+1652375817532:testOnly *EmailSpec
+1652375924878:testOnly assertions.EmailSpec
+1652376389548:testOnly *EmailSpec
+1652376560162:testOnly *DollarsSpec
+1652376980660:testOnly *EmailSpec
+1652378816025:testOnly *DollarsSpec
+1652388672563:testOnly *EqualitySpec
+1652390518670:testOnly *StringSpec
+1652427256782:testOnly *OrderingSpec
+1652617698777:testOnly *ContainerSpec
+1652620822133:testOnly *EmptinessSpec
+1652621995781:testOnly *LogicalSpec
+1652623397533:testOnly *ObjectIdentitySpec
+1652634990591:exit

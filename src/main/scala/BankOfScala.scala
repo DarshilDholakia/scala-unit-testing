@@ -8,7 +8,7 @@ object BankOfScala {
   def main(args: Array[String]): Unit = {
     println("Opening Bank")
 
-    val bank = new Bank(name = "Bank of Scala", country = "New Zealand", city = "Auckland", email = Email("bank", "scala.com"))
+    val bank = new Bank(name = "Bank of Scala", country = "New Zealand", city = "Auckland", email = new Email("bank", "scala.com"))
     val customerIds = getCustomers map { c => bank.createNewCustomer(c._1, c._2, c._3, c._4) }
     val depositProductIds = getDepositProducts map { p => bank.addNewDepositProduct(p._1, p._2, p._3) }
     val lendingProductIds = getLendingProducts map { l => bank.addNewLendingProduct(l._2, l._3, l._4) }

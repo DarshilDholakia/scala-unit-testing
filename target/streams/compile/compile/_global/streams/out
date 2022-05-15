@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/darshildholakia/Documents/scala_self_practice/scala-unit-testing/src/main/scala/com/h2/services/Db.scala:13:42: main.scala.com.h2.entities.Email and String are unrelated: they will most likely never compare equal[0m
+[0m[[0m[33mwarn[0m] [0m[0m    customers.values.filter(c => c.email == email).lastOption[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

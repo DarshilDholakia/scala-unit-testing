@@ -20,13 +20,16 @@ trait CustomerService extends CustomerDb {
 
     def getEmail: Email = {
       val Array(value, domain) = email.split("@")
-      Email(value, domain)
+      new Email(value, domain)
     }
 
     def getDateOfBirth: LocalDate = {
       val Array(year, month, day) = dateOfBirth.split("/")
       LocalDate.of(year.toInt, month.toInt, day.toInt)
     }
+
+    val existingCustomer: Option[Customer] = getExistingCustomer(email)
+    if (existingCustomer.isDefined) return existingCustomer.get.id
 
     val customer = new Customer(first, last, getEmail, getDateOfBirth)
     saveCustomer(customer)

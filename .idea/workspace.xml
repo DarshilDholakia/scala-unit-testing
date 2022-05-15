@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89121fcd-1ca9-4fb1-a03e-728e269a980b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_13_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_13_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalactic_scalactic_2_13_3_2_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_13_3_2_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_compatible_3_2_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_core_2_13_3_2_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_diagrams_2_13_3_2_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_featurespec_2_13_3_2_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_flatspec_2_13_3_2_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_freespec_2_13_3_2_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_funspec_2_13_3_2_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_funsuite_2_13_3_2_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_matchers_core_2_13_3_2_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_mustmatchers_2_13_3_2_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_propspec_2_13_3_2_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_refspec_2_13_3_2_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_shouldmatchers_2_13_3_2_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_wordspec_2_13_3_2_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/unit-testing-scala-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/unit-testing-scala.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/assertions/DollarsSpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/assertions/EmailSpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/matchers/ContainerSpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/matchers/EmptinessSpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/matchers/EqualitySpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/matchers/ExceptionSpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/matchers/LengthAndSizeSpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/matchers/LogicalSpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/matchers/ObjectIdentitySpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/matchers/OrderingSpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/matchers/PatternMatchingSpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/matchers/StringSpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/matchers/UnitSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala-fundamentals.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/BankOfScala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/BankOfScala.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/h2/entities/Email.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/h2/entities/Email.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/h2/services/CustomerService.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/h2/services/CustomerService.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/h2/services/Db.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/h2/services/Db.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="unit-testing-scala" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="294T4QLzg963iqoeVPHM9g5dymC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/darshildholakia/Documents/scala_self_practice/scala-unit-testing&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.13866669&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="HelloWorldSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="unit-testing-scala" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Class" />
+      <option name="testClassPath" value="HelloWorldSpec" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.HelloWorldSpec" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="scala3DisclaimerShown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89121fcd-1ca9-4fb1-a03e-728e269a980b" name="Changes" comment="" />
+      <created>1652371165849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652371165849</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

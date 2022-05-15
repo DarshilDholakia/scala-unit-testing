@@ -1,0 +1,1 @@
+["HelloWorldSpec","matchers.EmptinessSpec","matchers.LengthAndSizeSpec","assertions.EmailSpec","matchers.StringSpec","matchers.EqualitySpec","matchers.LogicalSpec","matchers.ExceptionSpec","matchers.OrderingSpec","matchers.ContainerSpec","matchers.ObjectIdentitySpec","assertions.DollarsSpec"]

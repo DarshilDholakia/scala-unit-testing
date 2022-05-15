@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly *OrderingSpec, Some(64b61974-36a7-4b47-8ad5-ef9ff1bd11ba), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/darshildholakia/Documents/scala_self_practice/scala-unit-testing/target/scala-2.13/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mOrderingSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCurrency conversion cost in comparison[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should report equal costs for 10 USD, 10 USD[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should report NZD < USD *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "NZD" was not greater than "USD" (OrderingSpec.scala:18)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 62 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 1, failed 1, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 1 TEST FAILED ***[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	matchers.OrderingSpec[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtestOnly[0m) sbt.TestsFailedException: Tests unsuccessful[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 0 s, completed 13 May 2022, 08:34:27[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
