@@ -14,3 +14,5 @@
 1652621995781:testOnly *LogicalSpec
 1652623397533:testOnly *ObjectIdentitySpec
 1652634990591:exit
+1652636208528:testOnly *ScalaFixtureSpec
+1652640073888:testOnly *ScalaLoan*

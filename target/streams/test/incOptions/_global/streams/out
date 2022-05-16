@@ -1,2 +1,21 @@
 [0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/darshildholakia/Documents/scala_self_practice/scala-unit-testing/target/scala-2.13/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFixtureSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFixtureSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFixtureContextObjectSpec$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFixtureSpec$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFixtureContextObjectSpec$ADollars.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFixtureSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFixtureContextObjectSpec$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFixtureContextObjectSpec$AProduct.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFixtureContextObjectSpec$ACustomer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RandomCurrencies$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFixtureContextObjectSpec$AProduct$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFixtureContextObjectSpec$ACustomer$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFixtureContextObjectSpec$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RandomCurrencies.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaLoanFixtures.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFixtureContextObjectSpec.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/darshildholakia/Documents/scala_self_practice/scala-unit-testing/target/scala-2.13/test-classes.bak[0m
